@@ -1,7 +1,9 @@
+package Seminar_1.untitled.src;
+
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Test {
+class Task0 {
     public static void main(String[] args) {
         int[] array = new int[]{1,1,0,1,1,1};
         int count = ex2(array);
